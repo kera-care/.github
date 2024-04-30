@@ -28,8 +28,8 @@ We welcome contributions to improve and expand the Kera Health platform!
 
 **Contact Us**
 
-* **Email:** [contact@kera.health]
-* **LinkedIn:** [[https://www.linkedin.com/company/kera-health/](https://www.linkedin.com/company/kera-health/)]
+* **Email:** [contact@kera.health](mailto:contact@kera.kera.health)
+* **LinkedIn:** [https://www.linkedin.com/company/kera-health/](https://www.linkedin.com/company/kera-health/)
 
 **Let's Build Healthier Futures, Together!** 
 
